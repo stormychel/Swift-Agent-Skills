@@ -121,7 +121,7 @@ If you’d prefer an AGENTS.md / CLAUDE.md file over an agent skill, this is for
 
 - Artem Novichkov is maintaining a repository of [Xcode 26’s system prompts](https://github.com/artemnovichkov/xcode-26-system-prompts) that you might find useful.
 - There is also [this alternative list of iOS AI skills](https://github.com/Techopolis/awesome-ios-ai) that is worth evaluating.
-
+- Learn to [build your own skill](https://build.ms/2025/10/17/your-first-claude-skill)
 
 ## Contributing
 
