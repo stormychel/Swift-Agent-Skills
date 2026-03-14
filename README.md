@@ -28,11 +28,11 @@ The skills listed here are open source, so please take the time to read through 
 - [Swift Testing Skills](#swift-testing-skills)
 - [Swift Language Skills](#swift-language-skills)
 - [Accessibility Skills](#accessibility-skills)
-- [Apple Security Skills](#apple-security-skills)
 - [App Store Skills](#app-store-skills)
 - [Architecture Skills](#architecture-skills)
 - [Core Data Skills](#core-data-skills)
 - [Performance Skills](#performance-skills)
+- [Security Skills](#security-skills)
 - [Tool Skills](#tool-skills)
 - [User Interface Skills](#user-interface-skills)
 
@@ -85,11 +85,6 @@ The skills listed here are open source, so please take the time to read through 
 - [Apple Accessibility Skills](https://github.com/rgmez/apple-accessibility-skills) by [Roberto Gómez Muñoz](https://github.com/rgmez)
 
 
-### Apple Security Skills
-
-- [Swift Security Expert](https://github.com/ivan-magda/swift-security-skill) by [Ivan Magda](https://github.com/ivan-magda)
-
-
 ### App Store Skills
 
 - [App Store Connect CLI](https://github.com/rudrankriyam/app-store-connect-cli-skills) by [Rudrank Riyam](https://github.com/rudrankriyam)
@@ -110,6 +105,11 @@ The skills listed here are open source, so please take the time to read through 
 ### Performance Skills
 
 - [SwiftUI Performance Audit](https://github.com/Dimillian/Skills) by [Thomas Ricouard](https://github.com/Dimillian)
+
+
+### Security Skills
+
+- [Swift Security Expert](https://github.com/ivan-magda/swift-security-skill) by [Ivan Magda](https://github.com/ivan-magda)
 
 
 ### Tool Skills
