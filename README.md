@@ -31,6 +31,7 @@ The skills listed here are open source, so please take the time to read through 
 - [App Store Skills](#app-store-skills)
 - [Architecture Skills](#architecture-skills)
 - [Core Data Skills](#core-data-skills)
+- [Focus Management Skills](#focus-management-skills)
 - [Performance Skills](#performance-skills)
 - [Security Skills](#security-skills)
 - [Tool Skills](#tool-skills)
@@ -101,6 +102,11 @@ The skills listed here are open source, so please take the time to read through 
 ### Core Data Skills
 
 - [Core Data Expert](https://github.com/AvdLee/Core-Data-Agent-Skill) by [Antoine van der Lee](https://github.com/AvdLee)
+
+
+### Focus Management Skills
+
+- [Swift FocusEngine Pro](https://github.com/mhaviv/Swift-FocusEngine-Agent-Skill) by [Michael Haviv](https://github.com/mhaviv)
 
 
 ### Performance Skills
