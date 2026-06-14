@@ -31,6 +31,7 @@ The skills listed here are open source, so please take the time to read through 
 - [App Intents Skills](#app-intents-skills)
 - [App Store Skills](#app-store-skills)
 - [Architecture Skills](#architecture-skills)
+- [Background Execution Skills](#background-execution-skills)
 - [Core Data Skills](#core-data-skills)
 - [Focus Management Skills](#focus-management-skills)
 - [Performance Skills](#performance-skills)
@@ -104,6 +105,11 @@ The skills listed here are open source, so please take the time to read through 
 ### Architecture Skills
 
 - [Swift Architecture Skill](https://github.com/efremidze/swift-architecture-skill) by [Lasha Efremidze](https://github.com/efremidze)
+
+
+### Background Execution Skills
+
+- [Background Execution Skill](https://github.com/n0an/Background-Execution-Agent-Skill) by [Anton Novoselov](https://github.com/n0an)
 
 
 ### Core Data Skills
