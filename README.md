@@ -38,6 +38,7 @@ The skills listed here are open source, so please take the time to read through 
 - [Security Skills](#security-skills)
 - [Tool Skills](#tool-skills)
 - [User Interface Skills](#user-interface-skills)
+- [Widgets Skills](#widgets-skills)
 
 #### Other useful material
 
@@ -143,6 +144,11 @@ The skills listed here are open source, so please take the time to read through 
 ### User Interface Skills
 
 - [Writing for Interfaces Skill](https://github.com/andrewgleave/skills/tree/main/writing-for-interfaces) by [Andrew Gleave](https://github.com/andrewgleave)
+
+
+### Widgets Skills
+
+- [Widgets Skill](https://github.com/n0an/Widgets-Agent-Skill) by [Anton Novoselov](https://github.com/n0an)
 
 
 ## AGENTS.md files
